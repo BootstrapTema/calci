@@ -1,5 +1,5 @@
 # CalcI
-##Responsive Calc Iframe
+##Responsive Calc Iframe SWF
 ###Ratio 16/9
 ###Ratio 3/2
 ###Ratio 4/3
