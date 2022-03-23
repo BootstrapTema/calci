@@ -1,10 +1,6 @@
 # CalcI
-##Responsive Calc Iframe
-###Ratio 16/9
-###Ratio 9/16
-###Ratio 3/2
-###Ratio 4/3
-####Bootstrap 3,4,5
+Responsive Calc Iframe: Ratio Video 16/9, Ratio Video 9/16, Ratio Video 3/2, Ratio Video 4/3 <br />
+Bootstrap 3,4,5 <br />
 ##CSS
 <pre><code>
 .calci {position:relative;width:100%;height:0;overflow:hidden}
